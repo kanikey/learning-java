@@ -1,3 +1,5 @@
 # learning-java
 
-//this particular repo, I will be logging the things I learn from Treehouse's Java track. 
+//So, a repository is synonymous with project. But I'm a little confused as to why there is a seperate tab for project then...?
+
+//ReadMe documents serve to give instructions to anyone using this repository or project.
